@@ -1,2 +1,2 @@
-# Sistema-Bancario-com-Python-V3
-Atualizando o Sistema Bancário com Python V3
+# Modelando-o-Sistema-Bancario-em-POO
+Modelando o Sistema Bancário com Python V3
